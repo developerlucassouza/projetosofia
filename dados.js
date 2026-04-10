@@ -4,14 +4,14 @@ dados = [
         "casal": "Ada e Leon",
         "obra": "Resident Evil 4",
         "foto": "adaeleon-residentevil4.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Tipo assim amor... É O LEON NÉ KKKKKKKKKKK durante muito tempo da minha vida, por vezes fizeram eu acreditar que várias coisas das quais eu gostava eram bobagem ou infantil, como video game, por muitas vezes fazendo eu questionar a minha própia identidade, porém você não é assim, você é a pessoa que não me aceita APESAR dos meus gostos, você faz eu sentir que cada parte de quem eu sou é importante, você faz eu sentir que tudo bem ser eu, independente do que eu gosto ou não. É por isso que eu amo você, por poder sempre ser a versão mais sincera e autêntica de mim mesmo."
     },
     // ANDIE E BENJAMIN - COMO PERDER UM HOMEM EM 10 DIAS
     {
         "casal": "Andie e Benjamin",
         "obra": "Como Perder um Homem em 10 Dias",
         "foto": "andieebenjamin-comoperderumhomemem10dias.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Sabe o que eu acho mais fofo desse filme? Se analisar bem, em partes a Andie agiu como ela sempre quis agir com um homem, durante o filme inteiro o 'perder o homem' se trata de agir com amor e com emoção, porém, isso foi justamente o que manteve o Benjamin por perto (claro, teve uma aposta também, mas vamos ignorar isso). A verdade é que o filme mostra que, para a pessoa certa, toda a emoção e intensidade vai ser vista com bons olhos e com agrado. É por isso que eu amo você, saber que podemos sempre nos amar com intensidade, sem medo de nos 'perdermos em 10 dias' por isso."
     },
     // ARIEL E ERIC - A PEQUENA SEREIA
     {
@@ -32,14 +32,14 @@ dados = [
         "casal": "Bella e Edward",
         "obra": "Crepúsculo",
         "foto": "bellaeedward-crepusculo.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Eu ODEIO vampiros kkkkkkkkkkk bixo pálido e esquisito, só coloquei aqui porque você gosta kkkkkkkkkkkkkkkkkkkkk mas o ponto é amor, que muitas vezes eu aceito e vou aceitar coisas que eu odeio e não suporto por causa de você, por te amar e por saber que você faz e faria o mesmo por mim, eu sempre estarei aqui para você, com todos os gostos esquisitos e que eu não entendo que você tem kkkkk. Saiba que eu aceito isso, porque eu te amo."
     },
     // JUDY E NICK - ZOOTOPIA
     {
         "casal": "Judy e Nick",
         "obra": "Zootopia",
         "foto": "judyenick-zootopia.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Sério que eles realmente fizeram uma policial e um malandro namorarem? EM UM FILME INFÂNTIL? Jesus... Mas sabe o que eu acho fofo? Os opostos, eles são opostos, mas ainda assim se auxiliam. Sendo opostos, e cada um do seu 'lado', o Nick de um lado caótico e oportunista, a Judy do seu lado bondoso e esperançoso, ambos ensinam o outro sobre o seu próprio 'lado', e se ajudam nisso, Judy aprendendo a agir com cada vez mais garra, Nick aprendendo a viver com cada vez mais bondade, nós vivemos nos ajudando assim, nos ensinando, nos apoiando. É por isso que eu amo você, como você sempre me ensina a ser bom, como sempre me ensina a ter esperança, ter amor, e aprender a ser amado."
     },
     // KAGUYA E SHIROGANE - KAGUYA-SAMA
     {

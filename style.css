@@ -1,0 +1,38 @@
+body {
+    background-color: #B11226;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img#foto {
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px white;
+    display: block;
+    margin: auto;
+    width: 90vw;
+}
+
+h1,
+h2 {
+    color: #F5E6E8;
+    text-align: center;
+    text-shadow: 0px 0px 3px black;
+}
+
+p#texto {
+    color: #FAFAFA;
+    margin: auto;
+    text-align: justify;
+    width: 80vw;
+}
+
+#reload {
+    background-color: #BFAB25;
+    border-radius: 10px;
+    box-shadow: 0px 0px 3px white;
+    display: block;
+    margin: 20px auto;
+    padding: 5px;
+    text-align: center;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projetinho Sofia</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Fontes -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <br>
+    <img id="foto" src="" alt="">
+    <h1 id="casal"></h1>
+    <h2 id="obra"></h2>
+    <p id="texto">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae sed, quae saepe quo aliquam
+        repellat, magnam sit minus obcaecati, culpa fuga laborum est. Quam totam dolorem blanditiis odio quas aperiam?
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic est similique laboriosam, natus deleniti quis
+        deserunt. Quaerat quidem mollitia rem voluptates impedit ducimus vel delectus ipsa. Dolor perspiciatis modi
+        quam. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium omnis incidunt harum quas obcaecati
+        ea praesentium distinctio facilis, rerum aliquam commodi tenetur similique error odit iste maiores asperiores
+        fugiat perspiciatis.</p>
+
+    <id id="reload" onclick="location.reload()">Recarregar</button>
+</body>
+
+
+<script src="dados.js"></script>
+<script>
+    const dado = 
+        //dados[6]
+        dados[Math.floor(Math.random() * dados.length)];
+
+    document.getElementById('casal').innerHTML = dado['casal'];
+    document.getElementById('obra').innerHTML = dado['obra'];
+    document.getElementById('foto').src = 'imagens/' + dado['foto'];
+    document.getElementById('texto').innerHTML = dado['texto'];
+</script>
+
+
+</html>

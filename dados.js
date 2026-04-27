@@ -18,14 +18,14 @@ dados = [
         "casal": "Ariel e Príncipe Eric",
         "obra": "A Pequena Sereia",
         "foto": "arieleeric-apequenasereia.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Olha só, é o 'A Que Pena Seria' kkkkkkk você é linda para mim, linda mesmo, eu nem sei se você seria uma Princesa ou uma Sereia para mim, então acho que faz sentido você ser uma princesa sereia kkkkkkkkk de qualquer forma, Ariel e Eric eram de mundos completamemte diferentes, ela uma sereia, ele um humano, ela do mar, e ele da terra, mas mesmo assim se apaixonaram completamente um pelo outro, não se amavam APESAR das diferenças, mas se encantavam pelas diferenças um do outro e se apaixonavam mais por isso, e estavam dispostos a lutar um pelo outro para reduzir a distância entre eles. Nós temos inumeras diferenças, e temos gostos e vivências extremamente diferenças, mas as diferenças que você tem de mim, são justamente as coisas que nos completam, que fazem eu me apaixonar cada vez mais por você. É por isso que eu amo você, porque as nossas diferenças não são um problema, são uma parte crucial da nossa conexão."
     },
     // AURORA E PHILLIP - A BELA ADORMECIDA
     {
         "casal": "Aurora e Príncipe Phillip",
         "obra": "A Bela Adormecida",
         "foto": "auroraephillip-abelaadormecida.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Você é extremamente semelhante a Aurora, porque ama dormir kkkkkkkkk admito que eu nunca vi alguém gostar tanto de dormir kkkkkkkkkkkkk mas acho compreensivel visto a sua rotina kkkkkk, de qualquer forma, o que deixou Phillip apaixonado pela Aurora foi justamente a sua feminilidade, a sua doçura, delicadeza e leveza. Ele encontrou uma mulher por quem valeria a pena mover montanhas por ela, porém essa delicadeza possue um 'preço': uma mulher assim precisa ser cuidada e protegida. Você é a mulher mais doce que já encontrei, a pessoa mais carinhosa e amorosa que já conheci, e quero que você possa ser cada vez mais e mais feminina, doce e carinhosa, e que se sinta segura para poder ser assim. Uma mulher assim faz com que um homem enfrente todo tipo de coisa por ela, seja ser preso, enfrentar obstáculos ou até mesmo derrotar um dragão. Eu vou sempre lutar por você, e quero sempre te cuidar e te proteger, assim como Phillip cuidou e protegeu Aurora. É por isso que eu amo você, porque a sua delicadeza, a sua doçura e a sua feminilidade me conquistam dia após dia, e estou disposto a lutar contra o que for preciso para te manter bem."
     },
     // BELLA E EDWARD - CREPUSCULO
     {
@@ -39,7 +39,7 @@ dados = [
         "casal": "Eve e Mark",
         "obra": "Invencível",
         "foto": "eveemark-invencivel.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Com apenas 17 anos, Mark descobre algo absurdo: o seu próprio pai, o maior super-herói do planeta, e homem mais forte do planeta, é na verdade um psicopata com o objetivo de escravizar a Terra. Logo após, ele assume um papel extremamente impossível: sem o seu pai, ele se torna o maior super-herói da Terra. Seu presente de maior idade foi receber a maior responsabilidade do planeta inteiro. A verdade é que ninguém consegue se manter são com uma pressão dessas, ainda mais com as ameaças que se passam, porém ainda assim ele consegue, porque Invencível tem sim uma parceira, alguém que o da suporte, alguém que o ajuda em suas lutas. Sempre que o Mark encontra alguém mais forte, Eve está ali para dizer que ele é capazde lutar e vencer, e inclusive o ajuda na batalha. Sempre que a moralidade do Mark é testada, e começa a pensar que talvez ele seja semelhante ao pai, ou que não seja uma boa pessoa, a Eve está ali para lembra-lo de todas as coisas boas que ele já fez, lembra-lo do herói que ele é. A verdade é que você é meu norte, meu guia, minha luz, a pessoa que me lembra que sou bom quando não me sinto como tal, a pessoa que me lembra que sou forte quando não tenho mais forças para lutar. É por isso que eu amo você, porque você faz eu me sentir... Invencível."
     },
     // JUDY E NICK - ZOOTOPIA
     {
@@ -67,7 +67,7 @@ dados = [
         "casal": "Louisa e Will",
         "obra": "Como Eu Era Antes de Você",
         "foto": "louisaewill-comoeueraantesdevoce.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Houve um tempo que eu não sabia direito o que eu queria, e nem sequer me sentia feliz comigo mesmo, não sabia o que eu queria ou não fazer, não sabia que rumo eu deveria seguir, e nem sequer tinha certeza se queria tanto assim ver o dia seguinte. Assim como com Will, você fez eu ver mais cores no meu dia a dia, me fez ver como a vida era boa, fez eu me sentir bem de novo. Assim como Louisa com Will, você fez eu voltar a ser feliz de verdade, mas diferente do Will, eu quero sentir essa alegria que você me traz dia após dia, saber que amanhã irei acordar com um 'bom dia' seu é algo que me alegra, algo que me traz alegria de estar vivo. Também amo como as pequenas coisas, coisas que só fazem sentido para mim e para você, são as mais valiosas, sejam uma meia de abelhinha ou uma apertada na mão do outro para dizer 'eu te amo'. É por isso que eu amo você, porque você traz cores para a minha vida, porque você me faz querer acordar amanhã, e porque você me faz ver um valor gigantesco até mesmo nas pequenas coisas."
     },
     // PADMÉ E ANAKIN - STAR WARS
     {
@@ -95,6 +95,6 @@ dados = [
         "casal": "Tiana e Príncipe Naveen",
         "obra": "A Príncesa e o Sapo",
         "foto": "tianaenaveen-aprincesaeosapo.png",
-        "texto": "TEXTO AQUI"
+        "texto": "Tiana e Naveen eram quase que o completo oposto um do outro. Tiana, esforçada, dedicada, trabalhadora, sem um minuto de descanso. Enquanto Naveen era despreocupado, relaxado, e num geral extremamente despreocupado. Como se já não fosse difícil o suficiente isso dar certo, ambos se transformam em sapos, talvez a criatura mais nojenta possível kkkk. Opostos, um deixando outro mais nervoso do que tudo, olhando um ao outro e vendo a criatura mais nojenta possível, mas mesmo assim, se apaixonaram aos poucos. Por que? porque ambos aprenderam muito um com o outro. Naveen aprendeu a cozinhar, viu que era preciso se esforçar muito para conquistar as coisas que aumejava. Tiana, por sua vez, aprendeu a aproveitar mais a vida, a curtir, e, principalmente, que nenhum sonho está completo sem amor, pois o amor é o que realmente faz a vida valer a pena a ser vivida. Eu e você aprendemos constantemente um com o outro, nossas diferenças não são problemas, nem toleráveis, muito menos se completam, elas melhoram um ao outro, aprendemos e ensinamos constantemente um ao outro, e isso que nos faz tão especiais. É por isso que eu amo você, nós não apenas aprendemos um com o outro e melhoramos como pessoas, mas eu estaria disposto a abrir mão de tudo, e até a viver como um sapinho, para poder ficar ao seu lado."
     }
 ]

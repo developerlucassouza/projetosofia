@@ -14,7 +14,7 @@ img#foto {
 }
 
 @media screen and (orientation: landscape) {
-    img#foto {
+    img#foto, #reload {
         max-width: 40vw;
     }
 }
@@ -28,6 +28,9 @@ h2 {
 
 p#texto {
     color: #FAFAFA;
+    font-family: "Arial", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     margin: auto;
     text-align: justify;
     text-shadow: 0px 0px 3px black;

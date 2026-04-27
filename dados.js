@@ -34,6 +34,13 @@ dados = [
         "foto": "bellaeedward-crepusculo.png",
         "texto": "Eu ODEIO vampiros kkkkkkkkkkk bixo pálido e esquisito, só coloquei aqui porque você gosta kkkkkkkkkkkkkkkkkkkkk mas o ponto é amor, que muitas vezes eu aceito e vou aceitar coisas que eu odeio e não suporto por causa de você, por te amar e por saber que você faz e faria o mesmo por mim, eu sempre estarei aqui para você, com todos os gostos esquisitos e que eu não entendo que você tem kkkkk. Saiba que eu aceito isso, porque eu te amo."
     },
+    // EVE E MARK - INVENCÍVEL
+    {
+        "casal": "Eve e Mark",
+        "obra": "Invencível",
+        "foto": "eveemark-invencivel.png",
+        "texto": "TEXTO AQUI"
+    },
     // JUDY E NICK - ZOOTOPIA
     {
         "casal": "Judy e Nick",
